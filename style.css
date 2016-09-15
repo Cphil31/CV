@@ -31,7 +31,8 @@ h1{clear:both;
   text-transform: capitalize;
   border:solid;
   border-color:#025FD9;
-  background-color:#025FD9;}
+  background-color:#025FD9;
+  color:white;}
 
 
 h2{text-align: center;
@@ -39,7 +40,8 @@ h2{text-align: center;
   text-transform: capitalize;
   border:solid;
   border-color:#025FD9;
-  background-color:#025FD9;}
+  background-color:#025FD9;
+  color:white;}
 
 ul {list-style:none;}
 
@@ -272,7 +274,8 @@ h3{clear:both;
   font-size:40px;
   border:2px solid;
   border-color:#025FD9;
-  background-color:#025FD9;}
+  background-color:#025FD9;
+  color:white;}
 
 .basket{
   font-size:25px;
