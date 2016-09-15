@@ -1,12 +1,5 @@
-body {background-color: ;}
-
-.feuillea4{width:230px;
-  height:1654px;
-  float:2339px;
-  font-size:20px;
-  border:solid 1px black;}
-
-
+body {background-color:#F6B352;
+  font-family: 'Palatino Linotype', 'Book Antiqua',  ;}
 
 
 .Nom{width:230px;
@@ -60,7 +53,8 @@ font-size:17px;}
 .hcv{width:auto;
     height:auto;
     margin-top:-50px;
-    font-size:40px;
+    margin-left:0px;
+    font-size:60px;
     text-transform: capitalize;}
 
 .hdw{width:auto;
