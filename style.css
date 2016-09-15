@@ -1,0 +1,279 @@
+body {background-color: ;}
+
+.feuillea4{width:230px;
+  height:1654px;
+  float:2339px;
+  font-size:20px;
+  border:solid 1px black;}
+
+
+
+
+.Nom{width:230px;
+  height:auto;
+  float:left;
+  font-size:20px;}
+
+.block-center{width:auto;
+  height:auto;
+  float:left;
+  margin-left:250px;
+  margin-top:60px;
+  font-size:20px;}
+
+img{width:auto;
+ height:auto;
+ margin-left:200px;}
+
+h1{clear:both;
+  text-align: center;
+  font-size:40px;
+  text-transform: capitalize;
+  border:solid;
+  border-color:#025FD9;
+  background-color:#025FD9;}
+
+
+h2{text-align: center;
+  font-size:40px;
+  text-transform: capitalize;
+  border:solid;
+  border-color:#025FD9;
+  background-color:#025FD9;}
+
+ul {list-style:none;}
+
+.listecomp{margin-left:450px;
+  margin-bottom:20px;
+font-size:18px;}
+
+.listedem{clear:both;
+  margin-left:410px;
+  margin-bottom:20px;}
+
+.competences{width:auto;
+height:auto;
+font-size:17px;}
+
+.hcv{width:auto;
+    height:auto;
+    margin-top:-50px;
+    font-size:40px;
+    text-transform: capitalize;}
+
+.hdw{width:auto;
+  height:10px;
+  margin-top:10px;
+  margin-left:-80px; 
+  margin-bottom:150px;
+  font-size:60px;  
+  text-transform:uppercase;}
+
+.juillet{margin-top:3px;
+  font-size:25px;
+  width:400px;
+  height:30px;
+  float:left;}
+
+.agent{font-size:25px;
+  width:600px;
+height: 60px;
+  float:left;}
+
+.portet{font-size:25px;
+  margin-left:90px;
+  width: auto;
+  height:auto;
+  float:left;}
+
+.dementelement{font-size:25px;
+  width: 150px;
+  height: 30px;
+  float:left;}
+
+.lj{
+  margin-bottom:20px;
+  width:auto;
+  height:auto;
+  clear:both;
+text-transform: capitalize;
+margin-left:20px;
+font-size:20px;}
+
+.avril{
+  font-size:25px;
+  width:400px;
+  height:auto;
+  float:left;}
+
+.assist{
+ font-size:25px;
+  width:690px;
+height:auto;
+  float:left;}
+
+.escalquens{
+  margin-bottom:30px;
+  font-size:25px;
+  width:auto;
+  height: auto;
+  float:left}
+
+.septembre{
+  margin-bottom:23px;
+  font-size:25px;
+  width:400px;
+  height: 30px;
+  float:left;}
+
+.chauffeur{font-size:25px;
+  width:690px;
+height: auto;
+  float:left;}
+
+.agentacceuil{font-size:25px;
+  width:600px;
+  height: 30px;
+  float:left;
+}
+
+.cornebarieu{font-size:25px;
+  width:100px;
+height:auto;
+float:left}
+
+.pieverte{font-size:25px;
+  width:auto;
+  height:auto;
+ clear:both;}
+
+.date2010{margin-top:23px;
+  margin-bottom:23px;
+  font-size:25px;
+  width:400px;
+height:auto;
+float:left}
+
+.agentacceuil{margin-top:22px;
+  font-size:25px;
+  width:690px;
+height:auto;
+float:left}
+
+.petitbourg{margin-top:22px;
+  font-size:25px;
+  width:auto;
+  height:auto;
+  float:left;}
+
+.livraison{margin-left:400px;
+  font-size:20px;
+  width:auto;
+  height:auto;
+ clear:both;}
+
+.saisie{margin-left:400px;
+  margin-bottom:25px;
+  font-size:20px;
+  width:auto;
+  height:auto;
+ clear:both;}
+
+.com{font-size:25px;
+  width:690px;
+  height:auto;
+  float:left;}
+
+.visites{margin-top:200px;
+  margin-bottom:10px;
+  margin-left:400px;
+  font-size:20px;
+  width:auto;
+  height:auto;
+ clear:both;}
+
+.septembreform{font-size:25px;
+  width:400px;
+  height:auto;
+ float:left;}
+ 
+.antilles{font-size:25px;
+  width:auto;
+  height:auto;
+ float:left;}
+
+.villeform{margin-bottom:20px;
+  font-size:25px;
+  width:auto;
+  height:auto;
+ float:left;}
+
+.form{font-size:25px;
+  width:685px;
+  height:auto;
+ float:left;}
+
+.simplon{margin-bottom:20px;
+  font-size:25px;
+  width:auto;
+  height:auto;
+ float:left}
+
+.date2007{font-size:25px;
+  width:400px;
+  height:auto;
+  clear:both;
+  float:left}
+
+.date2005{margin-bottom:25px;
+  font-size:25px;
+  width:400px;
+  height:auto;
+ float:left}
+
+.aquisition{font-size:25px;
+  width:684px;
+  height:auto;
+ float:left;}
+
+.cnam{margin-bottom:20px;
+  font-size:25px;
+  width:auto;
+  height:auto;
+ float:left;}
+
+.date2003{font-size:25px;
+  width:400px;
+  height:auto;
+ float:left}
+
+.bac{font-size:25px;
+  width:685px;
+  height:auto;
+ float:left;}
+
+.bacantilles{margin-bottom:25px;
+  font-size:25px;
+  width:auto;
+  height:auto;
+ float:left;}
+
+h3{clear:both;
+  text-align: center;
+  font-size:40px;
+  text-transform: capitalize;
+  border:solid;
+  border-color:#025FD9;
+  background-color:#025FD9;}
+
+.loisirs{
+  clear:both;
+  text-align: center;
+  font-size:40px;
+  border:2px solid;
+  border-color:#025FD9;
+  background-color:#025FD9;}
+
+.basket{
+  font-size:25px;
+  margin-left: 400px;}
